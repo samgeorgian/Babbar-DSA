@@ -1,9 +1,0 @@
-Binary Search::
-
-Always puts on monotonic functions:
-(Element put in monotic fucntion)
- 
- 1) find the mid element 
- 2) Compare mid key element
- 3) if equal then return the index value 
- 
